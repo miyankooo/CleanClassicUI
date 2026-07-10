@@ -1,7 +1,7 @@
-## Interface: 11570
+## Interface: 11508
 ## Title: CleanClassicExperience
 ## Notes: Minimalist layout for action bars, bags, micro menu, status bars, minimap, auras, and tooltips.
-## Version: 2.1.0
+## Version: 2.2.0
 ## Author: MIYANKO
 ## IconTexture: 133004
 ## SavedVariables: CleanClassicExperienceDB
