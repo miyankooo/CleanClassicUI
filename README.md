@@ -43,7 +43,7 @@ Minimalist restyling of the default WoW Classic Era interface, plus a handful of
 
 1. Copy the `CleanClassicUI/` folder into `World of Warcraft/_classic_era_/Interface/AddOns/`.
 2. Restart the game or `/reload`.
-3. Enable **CleanClassicUI** in the AddOns list.
+3. Enable **Clean Classic UI** in the AddOns list.
 
 ## Moving frames
 
