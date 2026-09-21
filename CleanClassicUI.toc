@@ -2,7 +2,7 @@
 ## Title: CleanClassicUI
 ## Notes: Minimalist styling for action bars, bags, status bars, minimap, auras, chat, and tooltips. Layout lives in Edit Mode.
 ## Version: 1.1.0
-## Author: MIYANKO
+## Author: miyanko
 ## IconTexture: 133004
 ## SavedVariables: CleanClassicUIDB
 
